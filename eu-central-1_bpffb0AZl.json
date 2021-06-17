@@ -1,0 +1,7 @@
+[
+{"Username":"kerem1","Attributes":[{"Name":"sub","Value":"cc9db5c6-53f9-4458-9dce-210cb0eae867"},{"Name":"email_verified","Value":"true"},{"Name":"email","Value":"testEmail@gmail.com"}],"UserCreateDate":"2020-12-23T11:32:48.107Z","UserLastModifiedDate":"2020-12-23T11:32:48.107Z","Enabled":true,"UserStatus":"FORCE_CHANGE_PASSWORD"}
+,
+{"Username":"kerem2","Attributes":[{"Name":"sub","Value":"366c04ae-3c9b-4091-b816-205ea1986100"},{"Name":"email_verified","Value":"true"},{"Name":"email","Value":"ssse@gmail.com"}],"UserCreateDate":"2020-12-23T11:33:52.705Z","UserLastModifiedDate":"2020-12-23T11:33:52.705Z","Enabled":true,"UserStatus":"FORCE_CHANGE_PASSWORD"}
+,
+{"Username":"kerem3","Attributes":[{"Name":"sub","Value":"b28ed2ff-192f-4c6c-bcc3-6b105aeec70a"},{"Name":"email_verified","Value":"true"},{"Name":"email","Value":"test@mail.com"}],"UserCreateDate":"2020-12-23T11:34:08.493Z","UserLastModifiedDate":"2020-12-23T11:34:08.493Z","Enabled":true,"UserStatus":"FORCE_CHANGE_PASSWORD"}
+]
